@@ -1,11 +1,11 @@
-<div style="text-align:center">
-# SOCIALME
+<div salign="center">
+<h1>SOCIALME</h1>
 
-É uma simulação de rede social, onde você pode começar a seguir um usuário, este mesmo é gerado randomicamente.
-🚀 Desenvolvido com Vue, Vue-router, Vuex e Axios
+<p>É uma simulação de rede social, onde você pode começar a seguir um usuário, este mesmo é gerado randomicamente.</p>
+<p>🚀 Desenvolvido com Vue, Vue-router, Vuex e Axios</p>
 </div>
 
-<div style="text-align:center">
+<div align="center">
     <img src="/public/socialme1.png" style="width:50%;" >
     <img src="/public/socialme2.png" style="width:50%;" >
 </div>
